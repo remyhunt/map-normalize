@@ -1,0 +1,19 @@
+{
+  "name": "map-normalize",
+  "version": "0.0.2",
+  "description": "a simple but essential map/normalize mapping function",
+  "main": "map-normalize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remyhunt/map-normalize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remyhunt/map-normalize/issues"
+  },
+  "homepage": "https://github.com/remyhunt/map-normalize#readme"
+}
