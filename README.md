@@ -5,15 +5,28 @@
 
 ` $ npm install map-normalize ` 
 
-# Usage
+# Quick Overview
+
+## Usage
 
 ```
+var map = require('map-normalize')
+
+// map(input, inMin, inMax, outMin, outMax)
+
+var y = map(.625, 0, 1, 0, 100)
 
 
 ````
 
 
-# Contributors
+# Author
 
-- [Remy Hunter (website)](https://remyhunt.net)
+- [Remy Hunter](https://remyhunt.net)
+
+
+
+# License
+
+Licensed under the MIT License.
 
