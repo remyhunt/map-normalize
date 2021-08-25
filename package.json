@@ -10,6 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/remyhunt/map-normalize.git"
   },
+  "keywords": [
+    "normalize",
+    "map",
+    "mathjs",
+    "array",
+    "io",
+    "mapping",
+    "quantize"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
