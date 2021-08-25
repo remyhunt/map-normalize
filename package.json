@@ -1,6 +1,6 @@
 {
   "name": "map-normalize",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "description": "a simple but essential map/normalize mapping function",
   "main": "map-normalize.js",
   "scripts": {
